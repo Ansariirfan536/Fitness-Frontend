@@ -1,9 +1,9 @@
-Frontend: React, Vite(Live on Vercel)
+# Frontend: React, Vite(Live on Vercel)
 
-Backend & Microservices: Java, Spring Boot, Spring Cloud (Eureka, Gateway)
+ # Backend & Microservices: Java, Spring Boot, Spring Cloud (Eureka, Gateway)
 
-Authentication: Keycloak (OAuth2 - Google, GitHub)
+ # Authentication: Keycloak (OAuth2 - Google, GitHub)
 
-Messaging: Apache Kafka
+# Messaging: Apache Kafka
 
 Infrastructure: Docker
